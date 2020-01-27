@@ -1,4 +1,4 @@
-# Vector_Graphics_Library
+# Vector Graphics Library
 Vector Graphics with EPS and SVG
 
 Two-dimensional (2D) vector graphics is an essential tool for many documenting and computer graphics applications.
